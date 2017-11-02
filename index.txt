@@ -2,5 +2,5 @@ Hello World
 
 prueba de branch
 
-prueba
-de conflicto
+solucionado conflicto
+
