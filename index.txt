@@ -7,3 +7,7 @@ solucionado conflicto
 ////////
 
 prueba para git hub
+
+praticando stash
+
+new-branch
