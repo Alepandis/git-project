@@ -4,3 +4,5 @@ prueba de branch
 
 solucionado conflicto
 
+praticando stash
+
